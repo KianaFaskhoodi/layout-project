@@ -1,0 +1,14 @@
+*{
+    box-sizing:border-box
+}
+header{
+    width: 100%;
+}
+.products{
+    width: 100%;
+}
+.productitem{
+    width: 33.3%;
+    float:right;
+    padding: 50px;
+}
